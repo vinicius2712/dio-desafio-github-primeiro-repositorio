@@ -1,0 +1,48 @@
+o produto sera um banco digital, é um banco onde todas as operações bancarias são feitas de maneira online, ou seja não existe banco fisico.
+
+preciso desenvolver uma ferramenta onde eu consiga realizar todas essas operações.
+- preciso definir as plataformas que irei utilizar no software
+
+sistema baseado em desktop x sistema web
+
+sistema desktop
+no passado todos software era voltado a somente descktop,ou seja um arquivo de instalação, fazer o codígo e gerar um arquivo execultavel pra pessoa realize a instalação no computador, ainda existe ainda como
+por exemplo: excel, word, anti-virus, jogos etc
+desvantagem: distante do meu pc não tenho acesso ao software.
+
+sistema web: posso ter acesso em qualquer local, através do navegador.
+
+aplicação móvel gera um instalador, hoje existe 2 plataformas que seria o andorid e ios.
+
+
+Banco deve ser acessado de qualquer local: web, e o aplicativo pra andorid e ios.
+
+-aula2 PESSOAS ENVOLVIDAS NESSE DESENVOLVIMENTO.
+*UX/UI DESIGNER: visa melhorar a satisfação do usuário, com um produto ou serviço melhorando a usabilidade do produto, ele monta o esqueleto do front-end, da cara da aplicação.
+UX:visa melhorar a experiencia do usuario com pesquisa, prototipo e objetivos.
+UI:designer de interface, esse profissional visa os padroes visuais que podem ajudar o usuario na experiencia, como cores, design e layouts.
+podem ser pessoas diferentes ou tambem pode ser a mesma pessoa responsavel pelos 2.
+
+*Front-end: faz a aplicação do cliente, programa a parte visual do site ou aplicativo.
+back-end: desenvolve a aplicação nos servidores para atender requisições.
+Full-stack: atua tanto no back quanto no front.
+
+IDE: ambiente de desenvolvimneto integrado.
+
+*FRAMEWOORK: é um facilitador, traz diversas soluções ja pré-definidas.
+a vida do programador back-end é desenvolver api´s, permite que 2 software conversem entre si.
+
+*QA (quality assurance) TESTE: cuida da qualidade do software, realizando testes no aplicativo para que os erros sejam minimizados.
+
+*INFRAESTRUTURA: se eu não tenho servidor em funcionamento as requisições do cliente não serão atendidas.(sis adimin)
+
+
+*CLOUND (nuvem publica):empresas que realizam o serviço de armazenamento de dados via internet.
+vantagens: preço(pague somente oque usar), facilidade na contratação, escalabilidade e performance
+
+
+SWEGGER: O SWEGGER é uma forma(padronizada) de documentar nossa api, escreve-la de uma forma que o computador entenda
+
+
+
+
